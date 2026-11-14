@@ -1,0 +1,1 @@
+"""FastLegal application package."""
