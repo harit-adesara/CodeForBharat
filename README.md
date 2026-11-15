@@ -283,15 +283,6 @@ CodeForBharat/
 
 ---
 
-## 🗺 Roadmap
-
-- [ ] Hindi and other Indian-language output
-- [ ] More Bare Acts and state-level statutes
-- [ ] Hearing reminders (email / WhatsApp)
-- [ ] User accounts and shared workspaces
-- [ ] Automated tests and CI
-
----
 
 ## ⚠️ Disclaimer
 
