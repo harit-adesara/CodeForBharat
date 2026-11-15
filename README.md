@@ -10,7 +10,6 @@ Summarise judgments, research Indian law, draft pleadings, and track court matte
 
 ---
 
-## **As of now use Gemini 3.1 flash lite model because it may possible that provider removed some of the models**
 
 ## 📖 Table of Contents
 
