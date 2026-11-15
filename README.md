@@ -6,6 +6,7 @@ Summarise judgments, research Indian law, draft pleadings, and track court matte
 
 **🌐 Live app:** https://codeforbharat-3j0c.onrender.com
 **📘 API docs:** https://codeforbharat-3j0c.onrender.com/api/docs
+**🎥 Demo Video:** https://drive.google.com/drive/folders/1oeHIiXJcCcj8cHOb_fAilKyPgtiKA1A-?usp=drive_link
 
 ---
 
