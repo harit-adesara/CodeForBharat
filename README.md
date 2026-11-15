@@ -22,7 +22,6 @@ Summarise judgments, research Indian law, draft pleadings, and track court matte
 - [API Overview](#-api-overview)
 - [Deployment](#-deployment)
 - [Project Structure](#-project-structure)
-- [Roadmap](#-roadmap)
 - [Disclaimer](#%EF%B8%8F-disclaimer)
 
 ---
